@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+hm_debug/
+_hm_cap.png
+config.json
+*.log
+.DS_Store

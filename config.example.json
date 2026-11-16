@@ -1,0 +1,26 @@
+{
+  "_说明": "复制本文件为 config.json 后修改。所有项都可以留空/删掉，脚本会自动探测或使用默认值。",
+
+  "hdc": "",
+  "device": "",
+  "bundle": "",
+  "ability": "MainAbility",
+
+  "rounds": 0,
+  "interval": 1.5,
+  "timeout": 180,
+  "mute": true,
+  "mute_keycode": "164",
+  "debug": false,
+
+  "keywords": {
+    "free_listen": ["免费听"],
+    "claim_done": ["领取成功"],
+    "countdown": ["可领取奖励", "秒后"],
+    "reward_btn": ["领取奖励", "继续观看"],
+    "cancel_live": ["取消"],
+    "exit_live": ["退出不看了"],
+    "feedback": ["反馈"],
+    "dialog_mark": ["再看", "提前得", "坚持退出"]
+  }
+}
